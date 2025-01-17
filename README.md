@@ -8,6 +8,15 @@ A central hub for accessing and sharing national-scale photovoltaic (PV) dataset
 
 
 
+## Adding a new country
+
+1. Fork the repo 
+2. Update the table
+3. Create a .md file based off `country_example_template.md`
+4. Submit a PR 
+
+
+
 ## Contributing and community
 
 [![issues badge](https://img.shields.io/github/issues/openclimatefix/global-solar-dataset?color=FFAC5F)](https://github.com/openclimatefix/global-solar-dataset/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
