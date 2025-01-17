@@ -7,8 +7,9 @@ A Central Hub for National-Scale Photovoltaic (PV) Datasets from Around the Worl
 
 In the rapidly expanding field of solar energy, finding comprehensive national-scale photovoltaic (PV) datasets can be challenging. Resources are often scattered across multiple websites and APIs, with significant variations in quality and accessibility. This repository aims to streamline access to these datasets by centralizing their where abouts into one location, thereby supporting research and enabling the development of solar energy forecasting models across new and existing markets.
 
+## Countries Overview
 
-
+All country-specific data can be found in the [`countries`](./countries) folder. Inside, you’ll see a **central table** listing each nation’s available photovoltaic (PV) datasets. Each country also has its own Markdown file containing detailed information on data sources, data types, and access/usage notes.
 
 
 
