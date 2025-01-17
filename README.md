@@ -1,4 +1,8 @@
 # Global Solar Datatset
+
+[![contributors badge](https://img.shields.io/github/contributors/openclimatefix/global-solar-dataset?color=FFFFFF)](https://github.com/openclimatefix/global-solar-dataset/graphs/contributors)
+[![ease of contribution: easy](https://img.shields.io/badge/ease%20of%20contribution:%20easy-32bd50)](https://github.com/openclimatefix#how-easy-is-it-to-get-involved) 
+
 A central hub for accessing and sharing national-scale photovoltaic (PV) datasets from around the world. 🌍
 
 
