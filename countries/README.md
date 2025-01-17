@@ -12,7 +12,7 @@ This folder serves as the **main index** for all national-scale photovoltaic (PV
 
 ## How to Add a New Country
 
-1. **Create a Markdown file** (e.g., `MyCountry.md`) in this `countries` folder based onff the `COUNTRY_TEMPLATE.md` file.  
+1. **Create a Markdown file** (e.g., `MyCountry.md`) in this `countries` folder based off the `COUNTRY_TEMPLATE.md` file.  
 2. **Add a new row** in the table above that includes:  
    - The country name (including the flag) 
    - A link to your newly created file  
