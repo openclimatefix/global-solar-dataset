@@ -1,9 +1,16 @@
 # Global Solar Datatset
 
+A central hub for accessing and sharing national-scale photovoltaic (PV) datasets from around the world. 🌍
+
 [![contributors badge](https://img.shields.io/github/contributors/openclimatefix/global-solar-dataset?color=FFFFFF)](https://github.com/openclimatefix/global-solar-dataset/graphs/contributors)
 [![ease of contribution: easy](https://img.shields.io/badge/ease%20of%20contribution:%20easy-32bd50)](https://github.com/openclimatefix#how-easy-is-it-to-get-involved) 
 
-A central hub for accessing and sharing national-scale photovoltaic (PV) datasets from around the world. 🌍
+In the growing field of solar energy, obtaining comprehensive national-scale photovoltaic (PV) datasets for some countries can be challenging, as they can be dispersed across multiple websites and APIs as well as can vary widely in both quality and accessibility.
+
+The purpose of this repo is to become a resource hub for national-scale photovoltaic (PV) datasets from across the world. This repository aims to centralize the data sources into one location to support the research and development of solar energy forecasting models into new countries.
+
+
+
 
 
 
