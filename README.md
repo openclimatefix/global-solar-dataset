@@ -17,7 +17,7 @@ In the rapidly expanding field of solar energy, finding comprehensive national-s
 
 1. Fork the repo 
 2. Update the table
-3. Create a .md file based off `country_example_template.md`
+3. Create a .md file based off `COUNTRY_TEMPLATE.md`
 4. Submit a PR 
 
 
