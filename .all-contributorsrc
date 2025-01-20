@@ -1,4 +1,21 @@
 {
-  "projectName": "Global Solar Dataset",
-  "projectOwner": "Open Climate Fix"
+  "projectName": "global-solar-dataset",
+  "projectOwner": "openclimatefix",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "zakwatts",
+      "name": "Megawattz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47150349?v=4",
+      "profile": "https://github.com/zakwatts",
+      "contributions": [
+        "code"
+      ]
+    }
+  ]
 }
