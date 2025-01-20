@@ -6,7 +6,7 @@ This folder serves as the **main index** for all national-scale photovoltaic (PV
 
 | Country    | Link to Detailed Info         | Primary Data Sources               | Last Updated |
 |------------|-------------------------------|------------------------------------|-------------|
-| Netherlands 🇳🇱     | [netherlands.md](nertherlands.md)             | Tennet, Ned.NL                         | 2025-01-17  |
+| Netherlands 🇳🇱     | [netherlands.md](netherlands.md)             | Tennet, Ned.NL                         | 2025-01-17  |
 | United Kingdom 🇬🇧| [united_kingdom.md](united_kingdom.md)     | PVLive - Sheffield Solar           | 2025-01-17  |
 
 
