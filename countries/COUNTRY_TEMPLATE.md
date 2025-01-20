@@ -6,11 +6,11 @@
 
 ## Data Sources
 1. **Source Name**  
-   - **Link**: `[URL here](#)`
+   - **Link**: [URL here](#)
    - **Data Type**: (e.g., real-time/historical, capacity, forecasts)
    - **Access Notes**: (API key needed, registration required, links to docs/tutorials etc.)
 2. **Source Name**  
-   - **Link**: `[URL here](#)`
+   - **Link**: [URL here](#)
    - **Data Type**: …
    - **Access Notes**: …
 
