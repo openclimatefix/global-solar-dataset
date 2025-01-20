@@ -4,7 +4,7 @@
 - **Key Organizations**: (e.g., energy agencies, open data portals, national data institutes)
 - **Data Highlights**: (e.g., real-time generation, large and good quality historical archieves, monthly/annual updates)
 
-## Primary Data Sources
+## Data Sources
 1. **Source Name**  
    - **Link**: `[URL here](#)`
    - **Data Type**: (e.g., real-time/historical, capacity, forecasts)
