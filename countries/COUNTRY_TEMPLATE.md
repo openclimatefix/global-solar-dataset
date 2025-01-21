@@ -12,7 +12,11 @@
    
 2. **Source Name**  
    - **Link**: [URL here](#)
-   - **Data Type**: …
+   - **Data Type**:
+        - Temporal granularity of data: 
+        - Historial data range:
+        - Updated outturn lag?:
+        - Other data available: 
    - **Access**: …
 
 ## Additional Comments
