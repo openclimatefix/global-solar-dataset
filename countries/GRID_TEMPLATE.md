@@ -1,4 +1,4 @@
-# Country Name
+# Grid Name
 
 ## Overview
 - **Key Organizations**: (e.g., energy agencies, open data portals, national data institutes)
