@@ -53,12 +53,12 @@
 4. **CBS - StatLine**
 
    - **Link**: [Solar Data](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/85005NED/table?ts=1738256335159)
-   - **Data Type**: 
+   - **Data Type**: Actual monthly generation and capacity per region
    - **Historical Data Structure**:
      - Temporal granularity of data: 
      - Historical data range: 
      - Updated outturn lag?: 
-   - **Other Data Types**: 
+   - **Other Data Types**: [production per recent month](https://www.cbs.nl/en-gb/figures/detail/84575ENG)
    - **Access**: 
 
 ## Additional Comments
