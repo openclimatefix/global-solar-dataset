@@ -30,21 +30,18 @@ All country/region specific data can be found in the [`grids`](./countries) fold
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-
 <!-- prettier-ignore-start -->
-
 <!-- markdownlint-disable -->
-
 <table>
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/zakwatts"><img src="https://avatars.githubusercontent.com/u/47150349?v=4?s=100" width="100px;" alt="Megawattz"/><br /><sub><b>Megawattz</b></sub></a><br /><a href="#code-zakwatts" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/arzoo0511"><img src="https://avatars.githubusercontent.com/u/148741922?v=4?s=100" width="100px;" alt="arzoo0511"/><br /><sub><b>arzoo0511</b></sub></a><br /><a href="#research-arzoo0511" title="Research">🔬</a> <a href="#doc-arzoo0511" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
 
 <!-- markdownlint-restore -->
-
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
