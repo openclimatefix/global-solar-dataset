@@ -39,6 +39,7 @@ All country/region specific data can be found in the [`grids`](./grids.) folder.
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/arzoo0511"><img src="https://avatars.githubusercontent.com/u/148741922?v=4?s=100" width="100px;" alt="arzoo0511"/><br /><sub><b>arzoo0511</b></sub></a><br /><a href="#research-arzoo0511" title="Research">🔬</a> <a href="#doc-arzoo0511" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/peterdudfield"><img src="https://avatars.githubusercontent.com/u/34686298?v=4?s=100" width="100px;" alt="Peter Dudfield"/><br /><sub><b>Peter Dudfield</b></sub></a><br /><a href="#ideas-peterdudfield" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ADIMANV"><img src="https://avatars.githubusercontent.com/u/68527614?v=4?s=100" width="100px;" alt="Aditya Sawant"/><br /><sub><b>Aditya Sawant</b></sub></a><br /><a href="#research-ADIMANV" title="Research">🔬</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://cortesi.com/"><img src="https://avatars.githubusercontent.com/u/1512016?v=4?s=100" width="100px;" alt="Simone Cortesi"/><br /><sub><b>Simone Cortesi</b></sub></a><br /><a href="#doc-cortesimone" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
