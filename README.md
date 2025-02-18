@@ -37,6 +37,7 @@ All country/region specific data can be found in the [`grids`](./countries) fold
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/zakwatts"><img src="https://avatars.githubusercontent.com/u/47150349?v=4?s=100" width="100px;" alt="Megawattz"/><br /><sub><b>Megawattz</b></sub></a><br /><a href="#code-zakwatts" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/arzoo0511"><img src="https://avatars.githubusercontent.com/u/148741922?v=4?s=100" width="100px;" alt="arzoo0511"/><br /><sub><b>arzoo0511</b></sub></a><br /><a href="#research-arzoo0511" title="Research">🔬</a> <a href="#doc-arzoo0511" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/peterdudfield"><img src="https://avatars.githubusercontent.com/u/34686298?v=4?s=100" width="100px;" alt="Peter Dudfield"/><br /><sub><b>Peter Dudfield</b></sub></a><br /><a href="#ideas-peterdudfield" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
