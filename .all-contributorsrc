@@ -44,6 +44,15 @@
       "contributions": [
         "research"
       ]
+    },
+    {
+      "login": "cortesimone",
+      "name": "Simone Cortesi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1512016?v=4",
+      "profile": "https://cortesi.com/",
+      "contributions": [
+        "doc"
+      ]
     }
   ]
 }
