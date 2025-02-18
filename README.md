@@ -9,7 +9,7 @@ In the rapidly expanding field of solar energy, finding comprehensive national-s
 
 ## Countries Overview
 
-All country/region specific data can be found in the [`grids`](./countries) folder. Inside, you’ll see a **central table** listing each grid's available photovoltaic (PV) datasets. Each grid has its own Markdown file containing detailed information on data sources, data types, and access/usage notes.
+All country/region specific data can be found in the [`grids`](./grids.) folder. Inside, you’ll see a **central table** listing each grid's available photovoltaic (PV) datasets. Each grid has its own Markdown file containing detailed information on data sources, data types, and access/usage notes.
 
 ## Adding a new country
 
