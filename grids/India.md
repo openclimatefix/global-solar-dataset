@@ -139,4 +139,4 @@
    - **Access**: No public generation data
 
 ## Additional Comments
-This markdown file categorizes the energy data sources across different regions of India, providing easy access to respective SLDCs and RLDCs. Many states require login credentials to access detailed generation data.
+This markdown file categorizes the energy data sources across different regions of India, providing easy access to respective SLDCs and RLDCs.  Many states require login credentials to access detailed generation data.
