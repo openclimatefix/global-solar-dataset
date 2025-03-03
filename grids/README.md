@@ -9,7 +9,7 @@ This folder serves as the main resource for all national-scale photovoltaic (PV)
 | Germany 🇩🇪    | [germany.md](germany.md)       | ENTOSE           | 2025-02-04   |
 | India 🇮🇳  | [india.md](india.md) | Multiple SLDC | 2025-02-18 |
 | Netherlands 🇳🇱    | [netherlands.md](netherlands.md)       | Tennet, Ned.NL           | 2025-01-17   |
-| United Kingdom 🇬🇧 | [united_kingdom.md](united_kingdom.md) | PVLive - Sheffield Solar | 2025-01-17   |
+| Great Britain 🇬🇧 | [great_britain.md](great_britain.md) | PVLive - Sheffield Solar | 2025-01-17   |
 
 ## How to Add a New Grid
 
