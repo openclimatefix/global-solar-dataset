@@ -10,6 +10,8 @@ This folder serves as the main resource for all national-scale photovoltaic (PV)
 | India 🇮🇳  | [india.md](india.md) | Multiple SLDC | 2025-02-18 |
 | Netherlands 🇳🇱    | [netherlands.md](netherlands.md)       | Tennet, Ned.NL           | 2025-01-17   |
 | Great Britain 🇬🇧 | [great_britain.md](great_britain.md) | PVLive - Sheffield Solar | 2025-01-17   |
+| Ireland 🇮🇪 | [ireland.md](ireland.md) | EirGrid Smart Grid | 2025-02-19 |
+
 
 ## How to Add a New Grid
 
