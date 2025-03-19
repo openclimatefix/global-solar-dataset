@@ -71,6 +71,15 @@
       "contributions": [
         "infra"
       ]
+    },
+    {
+      "login": "ajitashwathr10",
+      "name": "Ajit.",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141044380?v=4",
+      "profile": "http://ajitashwathr.vercel.app",
+      "contributions": [
+        "doc"
+      ]
     }
   ]
 }
