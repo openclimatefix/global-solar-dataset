@@ -11,8 +11,7 @@ This folder serves as the main resource for all national-scale photovoltaic (PV)
 | Netherlands 🇳🇱    | [netherlands.md](netherlands.md)       | Tennet, Ned.NL           | 2025-01-17   |
 | Great Britain 🇬🇧 | [great_britain.md](great_britain.md) | PVLive - Sheffield Solar | 2025-01-17   |
 | Ireland 🇮🇪 | [ireland.md](ireland.md) | EirGrid Smart Grid | 2025-02-19 |
-
-
+| United States 🇺🇸  | [united_states.md](united_states.md)| NREL Solar Power Data    | 2023-10-05   |
 ## How to Add a New Grid
 
 1. Create a Markdown file (e.g: `Country/Region Grid.md`) in the `grids` folder based off the `GRID_TEMPLATE.md` file.
