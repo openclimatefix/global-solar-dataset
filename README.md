@@ -45,6 +45,7 @@ All country/region specific data can be found in the [`grids`](./grids) folder. 
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://ajitashwathr.vercel.app"><img src="https://avatars.githubusercontent.com/u/141044380?v=4?s=100" width="100px;" alt="Ajit."/><br /><sub><b>Ajit.</b></sub></a><br /><a href="#doc-ajitashwathr10" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Prxxthxm"><img src="https://avatars.githubusercontent.com/u/83916321?v=4?s=100" width="100px;" alt="Preetham"/><br /><sub><b>Preetham</b></sub></a><br /><a href="#ideas-Prxxthxm" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
