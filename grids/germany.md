@@ -12,6 +12,7 @@
 
 ### 1. **ENTSO-E Transparency Platform**
 - **Link**: [https://transparency.entsoe.eu/](https://transparency.entsoe.eu/)
+  - **Newer Link**: [https://newtransparency.entsoe.eu/](https://newtransparency.entsoe.eu/)
 - **Access Notes**: Free registration required. API access available with an API key.
 - **Historical Data Structure**:
   - **Temporal granularity of data**: Hourly and daily resolution
@@ -19,6 +20,7 @@
   - **Updated outturn lag?**: Typically updated with a delay of 1–2 days
 - **Other Data Types**: Includes real-time generation, load forecasts, and cross-border flows
 - **Access**: [ENTSO-E API Docs](https://transparency.entsoe.eu/content/static_content/Static%20content/web%20api/Guide.html)
+  - **Newer Link**: [Sitemap for ENTSO-E API Integration](https://transparencyplatform.zendesk.com/hc/en-us/articles/15692855254548-Sitemap-for-Restful-API-Integration)
 
 ### 2. **Open Power System Data (OPSD)**
 - **Link**: [https://open-power-system-data.org/](https://open-power-system-data.org/)
