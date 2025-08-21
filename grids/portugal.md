@@ -13,7 +13,7 @@
 ## Data Sources
 
 ### 1. **REN Data Hub (Redes Energéticas Nacionais)**
-- **Link**: [https://datahub.ren.pt/](https://datahub.ren.pt/)
+- **Link**: [https://datahub.ren.pt/en/](https://datahub.ren.pt/en/)
 - **Access Notes**: Free access, no registration required for basic data. API access available.
 - **Historical Data Structure**:
   - **Temporal granularity of data**: Daily and monthly resolution
@@ -24,10 +24,10 @@
   - Monthly electricity balance and consumption evolution
   - Grid infrastructure and territory data
   - Natural gas data
-- **Access**: [API Documentation](https://datahub.ren.pt/pt/instrucoes-api/)
+- **Access**: [API Documentation](https://datahub.ren.pt/en/api-instructions/)
 
 ### 2. **APREN Monthly Bulletins (Portuguese Renewable Energy Association)**
-- **Link**: [https://www.apren.pt/dados/](https://www.apren.pt/dados/)
+- **Link**: [https://www.apren.pt/dados/en](https://www.apren.pt/dados/en)
 - **Access Notes**: Free access, monthly PDF reports available for download.
 - **Historical Data Structure**:
   - **Temporal granularity of data**: Monthly resolution
