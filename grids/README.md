@@ -6,6 +6,7 @@ This folder serves as the main resource for all national-scale photovoltaic (PV)
 
 | Country             | Link to Detailed Info               | Primary Data Sources     | Last Updated |
 | ------------------- | ----------------------------------- | ------------------------ | ------------ |
+| Belgium 🇧🇪    | [belgium.md](belgium.md)       | ELIA, ENTSO-E           | 2025-12-05   |
 | Germany 🇩🇪    | [germany.md](germany.md)       | ENTOSE           | 2025-02-04   |
 | India 🇮🇳  | [india.md](india.md) | Multiple SLDC | 2025-02-18 |
 | Netherlands 🇳🇱    | [netherlands.md](netherlands.md)       | Tennet, Ned.NL           | 2025-01-17   |
